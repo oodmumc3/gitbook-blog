@@ -10,6 +10,7 @@
       * [분기문 \(if, when\)](developments/language/kotlin/if-when.md)
       * [범위 표현식](developments/language/kotlin/ragne-expression.md)
       * [반복문](developments/language/kotlin/loop.md)
+      * [타입 시스템](developments/language/kotlin/type-system.md)
       * [클래스](developments/language/kotlin/class/README.md)
         * [객체 지향](developments/language/kotlin/class/object-oriented.md)
         * [객체 생성 및 생성자](developments/language/kotlin/class/constructor.md)
