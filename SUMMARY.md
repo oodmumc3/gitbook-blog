@@ -8,6 +8,8 @@
       * [변수](developments/language/kotlin/variables.md)
       * [동등성 vs 동일성](developments/language/kotlin/equality_identity.md)
       * [분기문 \(if, when\)](developments/language/kotlin/if-when.md)
+      * [범위 표현식](developments/language/kotlin/undefined-1.md)
+      * [반복문](developments/language/kotlin/undefined.md)
     * [Typescript](developments/language/typescript.md)
     * [NodeJS](developments/language/nodejs.md)
     * [Javascript](developments/language/javascript.md)
