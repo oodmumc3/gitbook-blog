@@ -163,3 +163,14 @@ fun main() {
 }
 ```
 
+* 생성자가 가시성 제한자를 가진다면 constructor를 명시해주어야 한다.
+
+```kotlin
+class PersonKotlin private constructor() {
+}
+
+fun main() {
+    val p = PersonKotlin() // error - private constructor
+}
+```
+
