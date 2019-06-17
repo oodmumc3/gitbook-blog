@@ -85,4 +85,5 @@ println(r.average()) // 5.5
 ## 참조
 
 * [http://zetcode.com/kotlin/ranges/](http://zetcode.com/kotlin/ranges/)
+* [https://altongmon.tistory.com/600](https://altongmon.tistory.com/600)
 
